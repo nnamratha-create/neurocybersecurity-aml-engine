@@ -1,0 +1,9 @@
+{
+  "critical_risk_boundary": 0.85,
+  "suspicious_alert_boundary": 0.60,
+  "neuro_anomaly_tolerance": 1.96,
+  "weights": {
+    "transaction_risk_weight": 0.40,
+    "cognitive_load_weight": 0.60
+  }
+}
